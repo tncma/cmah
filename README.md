@@ -11,13 +11,13 @@ The regular activities of the staff of many departments are manual: (E.g., Healt
 
 Technologies Used
 -----------------
-Server : IIS Server
-Programming Languges: C#, Javascript
-Technologies : Microsoft asp.net 4.5,
-Database : MS SQL Server
-Front End : HTML5, CSS3,
-Frameworks: Twitter Bootstrap, AngularJS, Jquery,
-Build & Development Tools : NodeJS, NPM, Grunt
+	Server : IIS Server
+	Programming Languges: C#, Javascript
+	Technologies : Microsoft asp.net 4.5,
+	Database : MS SQL Server
+	Front End : HTML5, CSS3,
+	Frameworks: Twitter Bootstrap, AngularJS, Jquery,
+	Build & Development Tools : NodeJS, NPM, Grunt
 
 Contributors
 ------------
