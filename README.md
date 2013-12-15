@@ -4,6 +4,9 @@ by CMAH Team. Application created for CMA Hackathon.
 
 OneCMA is an application where all the systems governed by CMA are integrated. The objective of the application is computerizing the various applications/departments of CMA, wherever applicable/possible. Also, the existing software applications will be integrated with OneCMA. So, there will NOT be separate software applications specific to a department. This way, the productivity, security and public satisfaction can be improved. Communication between the inter modules/departments would be easy since the data is going to be available in cloud. 
 
+
+**OneCMA would also provide new online public services like applying for birth/death certificates, Registering complaints and tracking service status**
+
 Technologies Used
 -----------------
 	Server : IIS Server
