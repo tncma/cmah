@@ -16,5 +16,5 @@ Technologies Used
 
 Contributors
 ------------
-Senthilkumar Subramanian - @xenthil
-Sriramajeyam Sugumaran - @yesoreyeram
+* Senthilkumar Subramanian - @xenthil
+* Sriramajeyam Sugumaran - @yesoreyeram
